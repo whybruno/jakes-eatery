@@ -17,10 +17,6 @@
 - HTML
 - CSS
 
-# :link: Website
-
-- [Jakes Eatery](https://whybruno.github.io/jakes-eatery)
-
 # :new_moon: Credits
 
 N/A
@@ -28,3 +24,7 @@ N/A
 # :globe_with_meridians: License
 
 MIT License
+
+# :earth_americas: Website
+
+- [Jakes Eatery](https://whybruno.github.io/jakes-eatery)
