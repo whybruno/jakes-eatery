@@ -2,17 +2,13 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0 auto;
-    width: 800px;
     height: 1200px;
 }
 
 /* logo styles */
 
 .logo {
-    background: white;
-    background-image: url(../images/jakes-logo.png);
-    background-repeat: no-repeat;
-    background-position: center;
+    background: white url(../images/jakes-logo.png) no-repeat center;
     height: 230px;
 }
 
@@ -48,19 +44,30 @@ nav {
 }
 
 button {
+    border: none;
     color: black;
+    cursor: pointer;
     font-size: 16px;
     padding: 15px;
     width: 50%;
 }
 
 .left button {
-    background-color: skyblue;
+    background-color: #87ceeb;
+}
+
+.left button:hover {
+    background-color: #FF4848;
 }
 
 .right button {
-    background-color: yellow;
+    background-color: #ffff00;
 }
+
+.right button:hover {
+    background-color: #FF4848;
+}
+
 
 /* main styles */
 
@@ -123,7 +130,12 @@ footer {
 }
 
 a {
+    cursor: pointer;
     text-decoration: none;
+}
+
+a:hover {
+    color: white;
 }
 
 .fb {
