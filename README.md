@@ -17,6 +17,10 @@
 - HTML
 - CSS
 
+# :link: Website
+
+- [Jakes Eatery](https://whybruno.github.io/jakes-eatery)
+
 # :new_moon: Credits
 
 N/A
