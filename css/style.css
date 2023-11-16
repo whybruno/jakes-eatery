@@ -21,7 +21,7 @@ nav {
 }
 
 .left, .center, .right {
-    align-items: center;
+    align-items: center;        
     display: flex;
     justify-content: center;
     height: 50px;
@@ -43,6 +43,10 @@ nav {
     text-decoration: none;
 }
 
+.center a:hover {
+    color: #FF4848;
+}
+    
 button {
     border: none;
     color: black;
@@ -67,7 +71,6 @@ button {
 .right button:hover {
     background-color: #FF4848;
 }
-
 
 /* main styles */
 
