@@ -5,26 +5,30 @@
 # :waxing_gibbous_moon: Features
 
 - Clean Code
-- Flexbox Skills
-- Semantic HTML
+- CSS Flexbox Layout
+- HTML Semantic
 
 # :first_quarter_moon: Screenshot
 
-![screenshot of the on my own page layout](./images/screenshot.png)
+![screenshot of the jakes eatery webpage](./assets/images/screenshot.png)
 
-# :waxing_crescent_moon: Technologies
+# :waxing_crescent_moon: Philosophy
+
+N/A
+
+# :new_moon: Technologies
 
 - HTML
 - CSS
 
-# :new_moon: Credits
-
-N/A
-
-# :earth_americas: Visit The Website
+# :globe_with_meridians: Website
 
 - [Jakes Eatery](https://whybruno.github.io/jakes-eatery)
 
-# :globe_with_meridians: License
+# :copyright: Credits
+
+N/A
+
+# :registered: License
 
 MIT License

@@ -8,7 +8,7 @@ body {
 /* logo styles */
 
 .logo {
-    background: white url(../images/jakes-logo.png) no-repeat center;
+    background: white url("../images/jakes-logo.png") no-repeat center;
     height: 230px;
 }
 
@@ -93,16 +93,16 @@ main {
 }
 
 .meal1 {
-    background-image: url(../images/steak.png);
+    background-image: url("../images/steak.png");
     margin-top: 20px;
 }
 
 .meal2 {
-    background-image: url(../images/soup.png);
+    background-image: url("../images/soup.png");
 }
 
 .meal3 {
-    background-image: url(../images/cheesecake.png);
+    background-image: url("../images/cheesecake.png");
 }
 
 .text {
